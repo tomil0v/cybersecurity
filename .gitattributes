@@ -1,0 +1,15 @@
+# Word документы — как двоичные файлы
+*.docx binary
+*.doc binary
+*.dotx binary
+
+# Другие офисные документы (опционально)
+*.xlsx binary
+*.pptx binary
+*.pdf binary
+
+# Изображения
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
